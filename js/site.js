@@ -1,1 +1,1 @@
-document.getElementById("paragrafo").innerHTML="ok";
+document.getElementById("paragrafo").innerHTML="site besta";
