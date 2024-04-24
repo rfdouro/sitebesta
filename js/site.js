@@ -6,7 +6,7 @@ const vapp = Vue.createApp({
   methods: {},
   computed: {
    mensagem(){
-    return "site besta"
+    return "site besta com Vue"
    }
   },
 });
